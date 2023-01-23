@@ -25,7 +25,6 @@ Users should be able to:
 
 - HTML
 - CSS
-- Desktop-first workflow
 
 ## Author
 
