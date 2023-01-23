@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://nft-preview-card-solution1.netlify.app/)
+- Live Site URL: [https://nft-preview-card-solution1.netlify.app/](https://nft-preview-card-solution1.netlify.app/)
 
 
 ### Built with
