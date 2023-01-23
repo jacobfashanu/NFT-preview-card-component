@@ -29,5 +29,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Jacob Fashanu](https://www.your-site.com)
+- Linkedin - [Jacob Fashanu](https://www.linkedin.com/in/jacob-fashanu/)
 - Frontend Mentor - [@jacobfashanu](https://www.frontendmentor.io/profile/jacobfashanu)
