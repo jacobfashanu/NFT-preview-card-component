@@ -24,7 +24,7 @@ Users should be able to:
 ### Built with
 
 - HTML
-- CSS custom properties
+- CSS
 - Desktop-first workflow
 
 ## Author
